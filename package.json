@@ -51,6 +51,7 @@
   },
   "dependencies": {
     "axios": "^0.21.1",
+    "babel-preset-minify": "^0.5.1",
     "bootstrap": "^5.1.0",
     "classnames": "^2.3.1",
     "jquery": "^3.6.0",
